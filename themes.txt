@@ -1,0 +1,36 @@
+
+            {
+                "label": "Agilax Cobalt",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AgilaCobalt.tmTheme"
+            },
+            {
+                "label": "Agilax Dracula",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AgilaDracula.tmTheme"
+            },
+            {
+                "label": "Agilax Light Solarized",
+                "uiTheme": "vs",
+                "path": "./themes/AgilaLightSolarized.tmTheme"
+            },
+            {
+                "label": "Agilax Monokai Extended",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AgilaMonokaiExtended.tmTheme"
+            },
+            {
+                "label": "Agilax Neon Monocyanide",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AgilaNeonMonocyanide.tmTheme"
+            },
+            {
+                "label": "Agilax Oceanic Next",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AgilaOceanicNext.tmTheme"
+            },
+            {
+                "label": "Agilax Origin Oceanic Next",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AgilaOriginOceanicNext.tmTheme"
+            }

@@ -1,10 +1,10 @@
 {
-    "name": "agila-theme",
-    "displayName": "Agila Theme",
-    "description": "Agila Theme",
+    "name": "agilax-theme",
+    "displayName": "Agilax Theme",
+    "description": "Agilax Theme",
     "icon": "icon.png",
     "version": "2.0.2",
-    "publisher": "whtsky",
+    "publisher": "anton7r",
     "engines": {
         "vscode": "^1.5.0"
     },
@@ -21,44 +21,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Agila Classic Oceanic Next",
+                "label": "Agilax Classic Oceanic Next",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Agila Classic Oceanic Next.tmTheme"
-            },
-            {
-                "label": "Agila Cobalt",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Agila Cobalt.tmTheme"
-            },
-            {
-                "label": "Agila Dracula",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Agila Dracula.tmTheme"
-            },
-            {
-                "label": "Agila Light Solarized",
-                "uiTheme": "vs",
-                "path": "./themes/Agila Light Solarized.tmTheme"
-            },
-            {
-                "label": "Agila Monokai Extended",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Agila Monokai Extended.tmTheme"
-            },
-            {
-                "label": "Agila Neon Monocyanide",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Agila Neon Monocyanide.tmTheme"
-            },
-            {
-                "label": "Agila Oceanic Next",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Agila Oceanic Next.tmTheme"
-            },
-            {
-                "label": "Agila Origin Oceanic Next",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Agila Origin Oceanic Next.tmTheme"
+                "path": "./themes/AgilaClassicOceanicNext.json"
             }
         ]
     }
